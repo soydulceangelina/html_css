@@ -1,0 +1,40 @@
+@media (max-width: 800px){
+    
+    .products{
+        display: inherit;
+        height: auto;
+        background-image: none;
+    }
+
+    .products_cards{
+        margin-top: auto;
+    }
+
+    .main_section{
+        padding: 4%;
+        margin-top: 20%;
+    }
+
+    .main_section h1{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .features{
+        padding-top: 900px;
+        margin: 20%;
+        display: inherit;
+        align-items: center;
+    }
+
+    .general_container{
+        display: inherit;
+        margin: 20%;
+    }
+
+    .footer a{
+        padding-left: 0;
+        font-size: 12px;
+        text-align: left;
+    }
+}
